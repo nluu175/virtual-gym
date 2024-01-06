@@ -12,4 +12,4 @@ Virtual Gym (AI4Society)
 
 ## Screencast Link:
 
-- The demo to the application can be found [here](https://drive.google.com/file/d/1Nafj93F8Bvx0s7BNGs4pUIrC1dHEnXFS/view?usp=sharing)
+- The demo to the application can be found [here](https://drive.google.com/file/d/1Nafj93F8Bvx0s7BNGs4pUIrC1dHEnXFS/view?usp=sharing).
